@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -378,7 +378,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../../Applications/KiCad/",
       "specctra_dsn": "../../../../Downloads/GlowCoreMini.dsn",
       "step": "GlowCoreMini.step",
       "vrml": ""
