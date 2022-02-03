@@ -1,2 +1,9 @@
+![GlowCore Mini](pcb_3d_view.jpg)
+
+
 # GlowCoreMini
-A small PCB for controlling an LED strip via USB-C or DC power. WLED compatible and with an integrated microphone for sound reactive animations!
+
+A small PCB for controlling one LED strip. Program the integrated ESP32, and power everything via USB-C or DC power.
+
+![GlowCore Mini](pcb_front.jpg)
+![GlowCore Mini](pcb_back.jpg)
