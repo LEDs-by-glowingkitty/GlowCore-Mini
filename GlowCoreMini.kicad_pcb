@@ -7198,7 +7198,7 @@
   (gr_text "PCB files:\nhttps://bit.ly/3JLodEJ" (at 152.1714 92.71) (layer "B.SilkS") (tstamp a4577db6-9080-401b-a350-02d0f1522bea)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left mirror))
   )
-  (gr_text "v1.1" (at 151.1046 114.935) (layer "B.SilkS") (tstamp ab706419-f35f-4063-b74e-47e4d7dd1065)
+  (gr_text "dev board v1.1" (at 151.1046 114.935) (layer "B.SilkS") (tstamp ab706419-f35f-4063-b74e-47e4d7dd1065)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify left mirror))
   )
   (gr_text "5V   D   GND" (at 145.3642 75.1078) (layer "B.SilkS") (tstamp cfb635df-c0d1-408d-b15a-c68c84360f6e)
