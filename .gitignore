@@ -31,3 +31,5 @@ fp-info-cache
 .DS_Store
 
 *.dxf
+
+*.pwmx

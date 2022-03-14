@@ -12,3 +12,4 @@ A small PCB for controlling one LED strip. Program the integrated ESP32, and pow
 
 - [Schematic](https://github.com/glowingkitty/GlowCoreMini/blob/main/GlowCoreMini.pdf)
 - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/glowingkitty/GlowCoreMini/blob/main/bom/ibom.html)
+- [3D printable stencil](https://github.com/glowingkitty/GlowCoreMini/blob/main/stencil.stl)
