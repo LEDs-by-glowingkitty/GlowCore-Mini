@@ -33,3 +33,6 @@ fp-info-cache
 *.dxf
 
 *.pwmx
+*jlcpcb
+*.step
+*.stp

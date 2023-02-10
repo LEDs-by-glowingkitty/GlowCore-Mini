@@ -55,8 +55,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 3.5,
-          "width": 2.0
+          "height": 1.050013,
+          "width": 0.650013
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -134,7 +134,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.127,
+        "min_clearance": 0.049999999999999996,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.3,
         "min_hole_clearance": 0.25,
@@ -195,7 +195,8 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.127
       ],
       "via_dimensions": [
         {
@@ -522,54 +523,6 @@
     [
       "c6f71574-e06f-4ae6-b347-b6a4861b944a",
       ""
-    ],
-    [
-      "f252c80e-df7b-4817-82cf-d4129e977436",
-      "ESP32"
-    ],
-    [
-      "c8067d67-dedb-425c-9ffb-c9d76922c7bd",
-      "LED power"
-    ],
-    [
-      "9682e764-7c87-4abc-8233-a8c2ff739a7a",
-      "USB-C"
-    ],
-    [
-      "6c685dd0-ea54-4a59-b42b-d600db735306",
-      "Battery"
-    ],
-    [
-      "b7f3bf05-da0f-4528-9622-2564946510a6",
-      "Battery Management IC"
-    ],
-    [
-      "d969d25d-8989-4039-a68e-21ae6973305d",
-      "3.3V converter"
-    ],
-    [
-      "fd7c9bcb-e7c0-402f-951e-8a86b5ca9930",
-      "Gyroscope"
-    ],
-    [
-      "de06b1e4-45f4-4fa6-a2c5-b7d3409c248a",
-      "Microphone"
-    ],
-    [
-      "b7068e2b-cbbc-4cdb-a386-bcfb621f3e68",
-      "Status LED"
-    ],
-    [
-      "55c862e2-370a-44fe-8763-19109236c395",
-      "Buttons"
-    ],
-    [
-      "36e753e3-bbe9-41bd-a0f7-01fdd4faa466",
-      "LED strips"
-    ],
-    [
-      "0f01344c-3202-44f7-86d1-34a5ac107bfa",
-      "Pads"
     ]
   ],
   "text_variables": {}
