@@ -470,7 +470,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "GlowCoreMini PCB.step",
+      "step": "../3D files/GlowCoreMini PCB.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

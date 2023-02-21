@@ -1728,7 +1728,7 @@
         )
       )
     )
-    (symbol "MyParts:Solder_Pad" (in_bom yes) (on_board yes)
+    (symbol "MyParts:Solder_Pad" (in_bom no) (on_board yes)
       (property "Reference" "P" (at 0 3.81 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -4831,7 +4831,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 549.91 121.92 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 08fb6276-c477-4efb-a78a-54d6cdfd2148)
     (property "Reference" "P18" (at 558.8 120.6499 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5099,7 +5099,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 240.665 196.215 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 182b710a-2054-4b78-a75e-69d9b3c35af7)
     (property "Reference" "P1" (at 236.855 188.595 0)
       (effects (font (size 1.27 1.27)))
@@ -5293,7 +5293,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 497.84 116.84 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 27d4a118-9638-445b-ab2b-50b3e8e4cfc8)
     (property "Reference" "P12" (at 506.73 115.5699 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5607,7 +5607,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 219.71 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3aac9dfb-a10e-45fc-be65-a3a73a9b6c55)
     (property "Reference" "P20" (at 530.86 218.4399 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5722,7 +5722,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 200.66 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3dab92e5-de30-4d05-add3-e6a86a372096)
     (property "Reference" "P11" (at 530.86 199.3899 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5822,7 +5822,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 195.58 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 44ad983d-48db-4548-8dbf-c4580f577f46)
     (property "Reference" "P9" (at 530.86 194.3099 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5963,7 +5963,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 497.84 111.76 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4d2a4517-c5b7-4465-a0c8-cc4e11a7f442)
     (property "Reference" "P3" (at 506.73 110.4899 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6019,7 +6019,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 240.665 213.995 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 513ae852-fe05-454d-96a1-09f5f38891c3)
     (property "Reference" "P2" (at 236.855 206.375 0)
       (effects (font (size 1.27 1.27)))
@@ -6128,7 +6128,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 166.37 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5ae8b424-a9db-41c2-9524-93474e8023b0)
     (property "Reference" "P22" (at 530.86 165.0999 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6182,7 +6182,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 497.84 121.92 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5e6bdb79-ebe6-4883-a82a-155294a9897c)
     (property "Reference" "P15" (at 506.73 120.6499 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6236,7 +6236,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 177.8 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 62b01351-e912-4c67-909e-ad8b0f1584b5)
     (property "Reference" "P19" (at 530.86 176.5299 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6375,7 +6375,7 @@
   )
 
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 266.7 91.44 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 68c70dac-555a-4a7e-9e65-1295a7a8e7a8)
     (property "Reference" "JP1" (at 266.7 85.725 0)
       (effects (font (size 1.27 1.27)))
@@ -6401,7 +6401,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 549.91 111.76 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 68d69a05-b8fe-42ee-997f-4ec2a79937d9)
     (property "Reference" "P16" (at 558.8 110.4899 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6531,7 +6531,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 184.15 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6df47db4-5413-4282-9d4b-0e964637b550)
     (property "Reference" "P7" (at 530.86 182.8799 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6581,7 +6581,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 172.72 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6f0ca84a-9c37-4093-ac88-3debce23e5dd)
     (property "Reference" "P6" (at 530.86 171.4499 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6685,7 +6685,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 207.01 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 76a97162-3f56-41cb-acc8-94c5db66e170)
     (property "Reference" "P14" (at 530.86 205.7399 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7221,7 +7221,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 189.23 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a3bbbf2b-b955-4ef4-9d42-729fb1ea2c3f)
     (property "Reference" "P8" (at 530.86 187.9599 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7501,7 +7501,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 224.79 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b229b52e-a18c-4d58-b9fd-d3ebe60d05b9)
     (property "Reference" "P10" (at 530.86 223.5199 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7719,7 +7719,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 161.29 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid be633158-e665-405d-bbc6-1aed31949295)
     (property "Reference" "P21" (at 530.86 160.0199 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7769,7 +7769,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 549.91 116.84 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c120e665-6434-4e23-85f2-f04fdd73c53b)
     (property "Reference" "P17" (at 558.8 115.5699 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7956,10 +7956,10 @@
     (pin "B6" (uuid fbed1319-0a28-4638-85cd-14d0935ff783))
     (pin "B7" (uuid b9a3e693-01f9-4aac-8860-ec2a5eb45206))
     (pin "B8" (uuid e45f9e0a-be05-47cc-b685-33b576fdd730))
-    (pin "SHELL" (uuid 4f1f735b-5bd9-4d8e-ae8f-2a74da2798ab))
-    (pin "SHELL" (uuid 4f1f735b-5bd9-4d8e-ae8f-2a74da2798ab))
-    (pin "SHELL" (uuid 4f1f735b-5bd9-4d8e-ae8f-2a74da2798ab))
-    (pin "SHELL" (uuid 4f1f735b-5bd9-4d8e-ae8f-2a74da2798ab))
+    (pin "SHELL" (uuid 4f1f735b-5bd9-4d8e-ae8f-2a74da2798b1))
+    (pin "SHELL" (uuid 4f1f735b-5bd9-4d8e-ae8f-2a74da2798b1))
+    (pin "SHELL" (uuid 4f1f735b-5bd9-4d8e-ae8f-2a74da2798b1))
+    (pin "SHELL" (uuid 4f1f735b-5bd9-4d8e-ae8f-2a74da2798b1))
     (instances
       (project "GlowCoreMini PCB"
         (path "/c6f71574-e06f-4ae6-b347-b6a4861b944a"
@@ -8184,7 +8184,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 212.09 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dbb41e11-5bf8-48bd-9af0-755928fa1311)
     (property "Reference" "P13" (at 530.86 210.8199 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8397,7 +8397,7 @@
   )
 
   (symbol (lib_id "Jumper:SolderJumper_2_Bridged") (at 328.93 290.195 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ecb310b4-873c-4afe-80ee-04be77d43caf)
     (property "Reference" "JP2" (at 328.93 283.845 0)
       (effects (font (size 1.27 1.27)))
@@ -8448,7 +8448,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 231.14 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ef860cf2-d780-4932-9a46-5d989d913d63)
     (property "Reference" "P5" (at 530.86 229.8699 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8666,7 +8666,7 @@
   )
 
   (symbol (lib_id "MyParts:Solder_Pad") (at 521.97 236.22 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f9c56409-2805-4415-b718-4510ec63150c)
     (property "Reference" "P4" (at 530.86 234.9499 0)
       (effects (font (size 1.27 1.27)) (justify left))

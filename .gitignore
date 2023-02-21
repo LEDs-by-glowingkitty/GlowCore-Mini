@@ -36,3 +36,5 @@ fp-info-cache
 *jlcpcb
 *.step
 *.stp
+*.blend
+*.blend1
